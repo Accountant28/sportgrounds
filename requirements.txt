@@ -1,0 +1,16 @@
+click==8.1.3
+Flask==2.2.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended
+psycopg2-binary==2.8.6
+flask_restful
+flask-marshmallow
+marshmallow-sqlalchemy
+python-dotenv
+twilio
+passlib
